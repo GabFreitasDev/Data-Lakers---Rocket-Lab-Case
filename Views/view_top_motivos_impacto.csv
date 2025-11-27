@@ -1,0 +1,15 @@
+categoria,nome_motivo,criticidade,volume_motivo,custo_total_motivo,percentual_resolucao_motivo,top_custo_motivo
+Cartão,Compra não autorizada,Alta,4396,4101.95,51.91,Urgente
+Financeiro,Contestação de fatura,Baixa,3832,3055.22,45.64,Urgente
+Cartão,Desbloqueio de cartão,Alta,3220,1370.29,37.08,Atenção
+Financeiro,Consulta de contrato,Média,2096,1051.03,39.22,Atenção
+Cartão,Contratação de cartão adicional,Média,1618,809.77,46.42,Atenção
+Cartão,Bloqueio de cartão,Alta,4509,740.10,38.26,Atenção
+Atendimento,Problema com aplicativo,Média,2437,654.73,30.78,Atenção
+Financeiro,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Média,824,329.95,27.91,Estável
+Benefícios,Dúvidas gerais sobre programa de pontos,Baixa,814,302.57,25.18,Estável
+Financeiro,Consulta de limite,Baixa,4200,279.34,32.6,Estável
+Financeiro,Consulta de fatura,Baixa,2054,126.42,32.08,Estável
+Cadastral,Transferência de agência,Média,1,0.00,0,Estável
+Cadastral,Cancelamento de Conta,Alta,1,0.00,0,Estável
+Financeiro,Renegociação de dívida,Média,1,0.00,0,Estável
