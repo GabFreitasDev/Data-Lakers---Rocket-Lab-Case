@@ -1,0 +1,14 @@
+id_motivo,nome_motivo,categoria,criticidade,hora_da_ingestao
+3,Contestação de fatura,,Baixa,2025-11-25T18:27:51.104Z
+4,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",,Média,2025-11-25T18:27:51.104Z
+5,Consulta de limite,,baixa,2025-11-25T18:27:51.104Z
+6,Desbloqueio de cartão,,Alta,2025-11-25T18:27:51.104Z
+7,Compra no autorizada,,Alta,2025-11-25T18:27:51.104Z
+14,Transferência de agência,,Média,2025-11-25T18:27:51.104Z
+15,Renegociação de dívida,,Média,2025-11-25T18:27:51.104Z
+9,Problema com aplicativo,,Média,2025-11-25T18:27:51.104Z
+10,Consulta de fatura,,Baixa,2025-11-25T18:27:51.104Z
+11,Bloqueio de cartão,,Alta,2025-11-25T18:27:51.104Z
+12,Contratação de cartão adicional,,Média,2025-11-25T18:27:51.104Z
+8,Consulta de contrato,,média,2025-11-25T18:27:51.104Z
+13,Dúvidas gerais sobre programa de pontos,,baixa,2025-11-25T18:27:51.104Z

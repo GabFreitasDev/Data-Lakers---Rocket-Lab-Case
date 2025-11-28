@@ -1,0 +1,24 @@
+resources:
+  jobs:
+    Job_Case_VCredit:
+      name: Job_Case_VCredit
+      tasks:
+        - task_key: Bronze
+          notebook_task:
+            notebook_path: /Workspace/Users/gabriel.fo.br@gmail.com/Data-Lakers---Rocket-Lab-Case/Notebooks/Notebook_land_to_bronze
+            source: WORKSPACE
+        - task_key: Silver
+          depends_on:
+            - task_key: Bronze
+          notebook_task:
+            notebook_path: /Workspace/Users/gabriel.fo.br@gmail.com/Data-Lakers---Rocket-Lab-Case/Notebooks/Notebook_bronze_to_silver
+            source: WORKSPACE
+        - task_key: Gold
+          depends_on:
+            - task_key: Silver
+          notebook_task:
+            notebook_path: /Workspace/Users/gabriel.fo.br@gmail.com/Data-Lakers---Rocket-Lab-Case/Notebooks/Notebook_silver_to_gold
+            source: WORKSPACE
+      queue:
+        enabled: true
+      performance_target: PERFORMANCE_OPTIMIZED

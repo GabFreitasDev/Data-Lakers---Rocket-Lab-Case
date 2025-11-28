@@ -1,0 +1,14 @@
+id_motivo,nome_motivo,categoria,criticidade,motivo_de_autosservico,motivo_de_especialista
+15,Renegociação de dívida,Financeiro,Média,Não,Não
+4,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,Não,Não
+13,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,Sim,Não
+8,Consulta de contrato,Financeiro,Média,Não,Não
+6,Desbloqueio de cartão,Cartão,Alta,Não,Sim
+3,Contestação de fatura,Financeiro,Baixa,Sim,Não
+11,Bloqueio de cartão,Cartão,Alta,Não,Sim
+7,Compra não autorizada,Cartão,Alta,Não,Sim
+10,Consulta de fatura,Financeiro,Baixa,Sim,Não
+9,Problema com aplicativo,Atendimento,Média,Não,Não
+14,Transferência de agência,Cadastral,Média,Não,Não
+5,Consulta de limite,Financeiro,Baixa,Sim,Não
+12,Contratação de cartão adicional,Cartão,Média,Não,Não

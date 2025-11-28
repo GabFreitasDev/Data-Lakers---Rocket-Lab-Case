@@ -1,0 +1,34 @@
+faixa_etaria,nome_motivo,qte_chamados,qte_resolvido,qte_nao_resolvido,efetividade,nota_media
+Adulto,Problema com aplicativo,1619,502,1117,31.01,2.82
+Adulto,Bloqueio de cartão,2940,1107,1833,37.65,2.82
+Adulto,Consulta de contrato,1314,513,801,39.04,2.87
+Adulto,Consulta de fatura,1340,443,897,33.06,2.79
+Adulto,Dúvidas gerais sobre programa de pontos,526,138,388,26.24,2.85
+Adulto,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",510,141,369,27.65,2.88
+Adulto,Contestação de fatura,2404,1094,1310,45.51,2.8
+Adulto,Compra não autorizada,2787,1416,1371,50.81,2.77
+Adulto,Contratação de cartão adicional,1079,505,574,46.8,2.83
+Adulto,Consulta de limite,2718,885,1833,32.56,2.81
+Adulto,Desbloqueio de cartão,2151,808,1343,37.56,2.79
+Idoso,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",89,20,69,22.47,2.94
+Idoso,Problema com aplicativo,234,69,165,29.49,2.69
+Idoso,Consulta de contrato,224,89,135,39.73,2.61
+Idoso,Dúvidas gerais sobre programa de pontos,105,21,84,20.0,2.83
+Idoso,Compra não autorizada,329,181,148,55.02,2.78
+Idoso,Bloqueio de cartão,387,159,228,41.09,2.7
+Idoso,Consulta de fatura,183,56,127,30.6,2.87
+Idoso,Desbloqueio de cartão,284,104,180,36.62,2.89
+Idoso,Contratação de cartão adicional,128,57,71,44.53,2.9
+Idoso,Contestação de fatura,342,153,189,44.74,2.72
+Idoso,Consulta de limite,388,130,258,33.51,2.79
+Jovem,Compra não autorizada,1280,685,595,53.52,2.81
+Jovem,Contestação de fatura,1086,502,584,46.22,2.78
+Jovem,Consulta de contrato,558,220,338,39.43,2.74
+Jovem,Consulta de fatura,531,160,371,30.13,2.79
+Jovem,Bloqueio de cartão,1182,459,723,38.83,2.82
+Jovem,Desbloqueio de cartão,785,282,503,35.92,2.77
+Jovem,Consulta de limite,1094,354,740,32.36,2.81
+Jovem,Dúvidas gerais sobre programa de pontos,183,46,137,25.14,2.63
+Jovem,Contratação de cartão adicional,411,189,222,45.99,2.73
+Jovem,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",225,69,156,30.67,2.86
+Jovem,Problema com aplicativo,584,179,405,30.65,2.77
