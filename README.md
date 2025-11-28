@@ -33,12 +33,7 @@ Notebook: Notebook_bronze_to_silver.py
 - Deduplicação e limpeza dos dados
 - Padronização de texto
 - Correção de atributos
-- Criação das estruturas dimensionais:
-    - Clientes
-    - Canais
-    - Motivos
-    - Atendentes
-    - Tempo
+
 
 ### Terceira Camada: Silver → Gold
 Notebook: Notebook_silver_to_gold.py
@@ -78,7 +73,7 @@ Notebook: Notebook_silver_to_gold.py
 - Recorrência e probabilidade de recontato
 
 ## Principais Insights Obtidos
-- Canais automatizados (URA e Chatbot) apresentam menor taxe de efetividade
+- Canais automatizados (URA e Chatbot) apresentam menor taxa de efetividade
 - Canais com atendimento humano, embora mais caros, aumentam a taxa de satisfação do cliente
 - Clientes idosos possuem uma satisfação menor em relação à canais automatizados
 - Motivos da categoria “cartão” concentram os maiores custos e chamados
