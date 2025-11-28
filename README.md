@@ -21,7 +21,7 @@ Notebook: Notebook_land_to_bronze.py
 - Chamados_hora
 - Clientes
 - Atendentes
-- Cstos
+- Custos
 - Pesquisa de satisfação
 
 
