@@ -1,0 +1,4 @@
+faixa_etaria_cliente,qtde_clientes,qtde_total_chamados,qtde_clientes_recontato,perc_prob_recontato,qtde_media_chamados_por_cliente
+Idoso,1624,2693,421,25.92,1.66
+Jovem,4802,7919,1168,24.32,1.65
+Adulto,12174,19388,2781,22.84,1.59

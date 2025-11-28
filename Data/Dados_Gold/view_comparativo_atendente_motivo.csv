@@ -1,0 +1,191 @@
+nome_atendente,nivel_atendimento,nome_motivo,categoria_motivo,criticidade,total_chamados,tma_medio_seg,media_nota_satisfacao,taxa_resolucao_percentual,custo_total_gerado
+Carla Mendes,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,90,1467.0,3.07,76.7,80.63
+Elisa Santos,NÍVEL 1,Consulta de contrato,Financeiro,Média,24,1037.0,2.83,25.0,10.67
+Elisa Santos,NÍVEL 1,Consulta de limite,Financeiro,Baixa,11,1191.0,2.64,54.5,4.02
+João Pedro,NÍVEL 1,Problema com aplicativo,Atendimento,Média,68,2183.0,3.1,22.1,67.16
+Henrique Costa,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,13,1177.0,3.08,46.2,5.53
+Ana Souza,NÍVEL 1,Consulta de contrato,Financeiro,Média,110,1083.0,3.04,31.8,50.00
+Felipe Araújo,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,36,1642.0,3.09,16.7,25.27
+João Pedro,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,31,1617.0,3.32,25.8,22.26
+Paula Carvalho,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,86,1748.0,3.06,20.9,60.73
+Thiago Pires,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,39,1192.0,3.21,20.5,17.77
+Gabriela Nunes,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,55,1134.0,2.91,23.6,25.31
+Ana Souza,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,17,1264.0,2.76,23.5,8.13
+Carla Mendes,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,80,2150.0,2.85,80.0,101.26
+Vitória Gonçalves,NÍVEL 1,Consulta de contrato,Financeiro,Média,198,1111.0,2.92,19.7,78.25
+Felipe Araújo,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,38,2265.0,3.17,21.1,41.95
+Ana Souza,NÍVEL 1,Consulta de limite,Financeiro,Baixa,47,1192.0,2.98,19.1,24.58
+Ana Souza,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,48,1632.0,3.17,31.3,35.36
+Elisa Santos,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,19,1754.0,3.21,15.8,11.35
+Carla Mendes,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,182,3024.0,2.95,78.0,347.41
+Carla Mendes,NÍVEL 2,Compra não autorizada,Cartão,Alta,269,3014.0,2.99,79.6,498.55
+Otávio Barros,NÍVEL 1,Consulta de limite,Financeiro,Baixa,27,1175.0,3.15,25.9,13.82
+Sabrina Queiroz,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,6,1570.0,3.0,16.7,3.70
+Carla Mendes,NÍVEL 2,Consulta de contrato,Financeiro,Média,79,1597.0,2.92,81.0,82.78
+Isabela Martins,NÍVEL 1,Compra não autorizada,Cartão,Alta,49,2118.0,2.88,26.5,42.68
+Ana Souza,NÍVEL 1,Compra não autorizada,Cartão,Alta,62,2239.0,3.12,22.6,61.22
+Otávio Barros,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,40,1095.0,3.15,25.0,20.03
+Thiago Pires,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,34,1490.0,2.91,41.2,21.05
+Gabriela Nunes,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,36,1172.0,3.11,19.4,17.69
+Paula Carvalho,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,101,1136.0,2.89,20.8,43.60
+Lucas Almeida,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,3,1192.0,3.67,100.0,1.52
+Marina Ferraz,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,361,3080.0,2.94,77.0,659.24
+Karen Ribeiro,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,38,1656.0,3.03,13.2,24.01
+Henrique Costa,NÍVEL 1,Consulta de limite,Financeiro,Baixa,14,1201.0,3.0,14.3,6.58
+Elisa Santos,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,12,1139.0,2.5,25.0,5.60
+Vitória Gonçalves,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,21,1051.0,2.85,28.6,8.01
+Lucas Almeida,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,6,1352.0,3.0,16.7,3.63
+Bruno Lima,NÍVEL 2,Consulta de contrato,Financeiro,Média,87,1422.0,3.0,78.2,76.09
+Karen Ribeiro,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,3,1705.0,3.33,33.3,2.61
+Paula Carvalho,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,72,2245.0,3.13,22.2,64.03
+Isabela Martins,NÍVEL 1,Consulta de contrato,Financeiro,Média,92,1105.0,3.09,34.8,37.66
+Paula Carvalho,NÍVEL 1,Consulta de limite,Financeiro,Baixa,50,1102.0,3.0,28.0,21.52
+Ana Souza,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,105,1701.0,2.99,21.9,69.05
+Otávio Barros,NÍVEL 1,Problema com aplicativo,Atendimento,Média,50,2273.0,3.1,24.0,47.49
+Ana Souza,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,86,2299.0,2.85,25.6,72.64
+Thiago Pires,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,10,1749.0,3.5,10.0,4.70
+Gabriela Nunes,NÍVEL 1,Problema com aplicativo,Atendimento,Média,57,2286.0,3.04,31.6,54.44
+Diego Rocha,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,27,2307.0,2.92,66.7,32.03
+Sabrina Queiroz,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,47,1149.0,3.0,25.5,24.46
+Marina Ferraz,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,119,2206.0,3.06,83.2,154.90
+Paula Carvalho,NÍVEL 1,Problema com aplicativo,Atendimento,Média,56,2255.0,2.78,25.0,49.14
+João Pedro,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,71,1641.0,2.96,22.5,51.91
+Sabrina Queiroz,NÍVEL 1,Consulta de contrato,Financeiro,Média,45,1216.0,2.8,13.3,22.26
+Thiago Pires,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,56,1571.0,2.87,23.2,34.42
+Isabela Martins,NÍVEL 1,Consulta de limite,Financeiro,Baixa,33,1113.0,2.91,12.1,14.05
+Marina Ferraz,NÍVEL 2,Consulta de contrato,Financeiro,Média,141,1562.0,2.91,75.9,135.52
+Lucas Almeida,NÍVEL 1,Consulta de limite,Financeiro,Baixa,6,1115.0,3.0,16.7,2.21
+Henrique Costa,NÍVEL 1,Problema com aplicativo,Atendimento,Média,21,2275.0,3.19,14.3,20.98
+Rafael Moreira,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,99,2376.0,2.89,76.8,132.05
+Vitória Gonçalves,NÍVEL 1,Problema com aplicativo,Atendimento,Média,82,2158.0,3.0,22.0,74.29
+Bruno Lima,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,136,2274.0,3.05,67.6,161.78
+Felipe Araújo,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,21,1602.0,2.81,28.6,14.16
+João Pedro,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,31,1136.0,3.27,45.2,14.88
+Isabela Martins,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,8,1120.0,3.0,12.5,3.49
+Nicolas Teixeira,NÍVEL 2,Consulta de contrato,Financeiro,Média,93,1477.0,3.02,76.3,90.27
+Marina Ferraz,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,144,1505.0,2.92,75.7,130.09
+João Pedro,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,15,1330.0,2.86,26.7,7.70
+Felipe Araújo,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,8,1104.0,2.75,37.5,3.18
+Isabela Martins,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,55,2444.0,2.98,18.2,53.75
+Sabrina Queiroz,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,34,2354.0,2.91,11.8,32.08
+Otávio Barros,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,49,2103.0,3.2,38.8,38.23
+Marina Ferraz,NÍVEL 2,Compra não autorizada,Cartão,Alta,448,3086.0,2.94,79.7,819.90
+Henrique Costa,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,4,2043.0,3.0,0.0,3.82
+Sabrina Queiroz,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,24,1606.0,2.88,16.7,15.91
+Sabrina Queiroz,NÍVEL 1,Consulta de limite,Financeiro,Baixa,18,1034.0,3.06,38.9,7.17
+Karen Ribeiro,NÍVEL 1,Consulta de contrato,Financeiro,Média,50,1144.0,2.88,24.0,25.98
+Thiago Pires,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,16,1221.0,2.93,12.5,7.60
+Rafael Moreira,NÍVEL 2,Consulta de contrato,Financeiro,Média,106,1492.0,3.01,75.5,99.84
+Bruno Lima,NÍVEL 2,Compra não autorizada,Cartão,Alta,349,2937.0,2.93,77.9,605.91
+Lucas Almeida,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,22,2365.0,2.85,18.2,18.10
+Henrique Costa,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,17,1779.0,3.4,17.6,11.47
+Felipe Araújo,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,12,1780.0,3.25,41.7,10.90
+Otávio Barros,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,13,1656.0,3.08,23.1,8.55
+Carla Mendes,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,73,2259.0,2.97,76.7,99.76
+Bruno Lima,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,80,1348.0,3.04,66.3,66.47
+Karen Ribeiro,NÍVEL 1,Consulta de limite,Financeiro,Baixa,20,1163.0,3.15,20.0,9.99
+Nicolas Teixeira,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,81,1446.0,3.03,82.7,75.96
+Elisa Santos,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,9,2756.0,2.88,33.3,11.36
+Felipe Araújo,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,13,1176.0,2.92,15.4,6.64
+Nicolas Teixeira,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,192,2952.0,3.09,77.1,325.93
+Vitória Gonçalves,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,19,1674.0,3.27,31.6,11.64
+Isabela Martins,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,39,1637.0,2.97,23.1,26.24
+Nicolas Teixeira,NÍVEL 2,Compra não autorizada,Cartão,Alta,343,2980.0,2.94,77.6,592.63
+Ana Souza,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,32,1053.0,3.0,34.4,11.73
+Thiago Pires,NÍVEL 1,Consulta de contrato,Financeiro,Média,65,1171.0,3.09,26.2,29.41
+João Pedro,NÍVEL 1,Compra não autorizada,Cartão,Alta,58,2288.0,2.87,25.9,51.36
+Ana Souza,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,13,1446.0,3.31,23.1,7.17
+Vitória Gonçalves,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,76,2145.0,3.17,18.4,64.07
+Paula Carvalho,NÍVEL 1,Consulta de contrato,Financeiro,Média,136,1101.0,2.88,19.9,65.39
+João Pedro,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,55,1124.0,2.98,25.5,28.75
+Lucas Almeida,NÍVEL 1,Consulta de contrato,Financeiro,Média,43,1081.0,3.18,30.2,18.07
+Karen Ribeiro,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,19,1175.0,2.89,21.1,8.90
+Henrique Costa,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,30,2178.0,2.96,23.3,26.70
+Paula Carvalho,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,38,1137.0,3.18,26.3,18.88
+Karen Ribeiro,NÍVEL 1,Compra não autorizada,Cartão,Alta,21,2122.0,3.0,28.6,18.67
+Vitória Gonçalves,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,51,1080.0,2.93,25.5,21.10
+Nicolas Teixeira,NÍVEL 2,Contratação de cartão adicional,Cartão,Média,80,2337.0,2.78,76.3,108.77
+Felipe Araújo,NÍVEL 1,Compra não autorizada,Cartão,Alta,30,2437.0,2.96,30.0,27.58
+Bruno Lima,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,104,2345.0,3.11,75.0,155.64
+Isabela Martins,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,5,1631.0,2.25,60.0,2.79
+Elisa Santos,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,8,1123.0,3.14,12.5,3.71
+Otávio Barros,NÍVEL 1,Compra não autorizada,Cartão,Alta,47,2238.0,3.02,34.0,37.48
+Gabriela Nunes,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,9,1924.0,3.25,0.0,5.10
+Elisa Santos,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,3,987.0,3.33,0.0,1.00
+Otávio Barros,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,45,1742.0,3.1,26.7,28.74
+Henrique Costa,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,24,1722.0,2.96,37.5,16.84
+Otávio Barros,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,36,1118.0,2.85,16.7,17.61
+Gabriela Nunes,NÍVEL 1,Consulta de limite,Financeiro,Baixa,35,975.0,2.82,28.6,13.08
+Isabela Martins,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,61,1668.0,2.92,24.6,42.09
+Bruno Lima,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,244,2797.0,3.03,79.5,418.89
+Vitória Gonçalves,NÍVEL 1,Consulta de limite,Financeiro,Baixa,58,1169.0,2.97,29.3,24.78
+Lucas Almeida,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,22,1618.0,2.65,9.1,11.33
+Felipe Araújo,NÍVEL 1,Consulta de contrato,Financeiro,Média,64,1146.0,2.98,23.4,30.53
+Gabriela Nunes,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,82,1683.0,3.03,22.0,55.04
+Lucas Almeida,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,18,1374.0,2.94,11.1,10.59
+Rafael Moreira,NÍVEL 2,Compra não autorizada,Cartão,Alta,319,2906.0,2.95,74.3,584.07
+Vitória Gonçalves,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,71,1077.0,2.98,21.1,33.95
+Thiago Pires,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,41,2389.0,3.1,24.4,45.31
+Gabriela Nunes,NÍVEL 1,Consulta de contrato,Financeiro,Média,100,1166.0,2.85,22.0,46.75
+Otávio Barros,NÍVEL 1,Consulta de contrato,Financeiro,Média,112,1156.0,3.06,26.8,51.71
+Vitória Gonçalves,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,112,1644.0,2.75,18.8,68.83
+Thiago Pires,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,22,1236.0,2.95,45.5,10.94
+João Pedro,NÍVEL 1,Consulta de limite,Financeiro,Baixa,33,1132.0,3.13,30.3,16.72
+Karen Ribeiro,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,29,1714.0,2.93,17.2,21.54
+Diego Rocha,NÍVEL 2,Consulta de contrato,Financeiro,Média,40,1412.0,3.22,70.0,32.05
+Karen Ribeiro,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,29,1192.0,3.07,20.7,12.73
+Ana Souza,NÍVEL 1,Problema com aplicativo,Atendimento,Média,77,2262.0,2.96,22.1,74.05
+Thiago Pires,NÍVEL 1,Consulta de limite,Financeiro,Baixa,19,1157.0,3.27,10.5,10.39
+Ana Souza,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,81,1049.0,2.79,30.9,33.42
+Henrique Costa,NÍVEL 1,Consulta de contrato,Financeiro,Média,51,1140.0,2.92,19.6,23.93
+Otávio Barros,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,71,1634.0,2.77,23.9,41.09
+Rafael Moreira,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,221,3018.0,2.96,75.1,405.42
+Lucas Almeida,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,4,1209.0,2.5,50.0,1.76
+Henrique Costa,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,6,1352.0,3.5,33.3,3.19
+Isabela Martins,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,23,997.0,2.87,21.7,8.40
+Karen Ribeiro,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,3,1052.0,2.33,0.0,1.17
+Paula Carvalho,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,14,1531.0,3.17,21.4,7.20
+Diego Rocha,NÍVEL 2,Contestação de fatura,Financeiro,Baixa,125,2985.0,3.01,70.4,206.48
+Otávio Barros,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,16,1189.0,3.13,12.5,8.91
+Henrique Costa,NÍVEL 1,Compra não autorizada,Cartão,Alta,28,2249.0,2.86,17.9,25.31
+Nicolas Teixeira,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,76,2330.0,2.96,68.4,104.70
+João Pedro,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,10,1715.0,3.13,0.0,6.18
+Rafael Moreira,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,98,2282.0,3.07,83.7,135.89
+Isabela Martins,NÍVEL 1,Problema com aplicativo,Atendimento,Média,42,2234.0,2.85,21.4,33.09
+Diego Rocha,NÍVEL 2,Compra não autorizada,Cartão,Alta,180,2847.0,3.04,77.8,323.90
+Vitória Gonçalves,NÍVEL 1,Compra não autorizada,Cartão,Alta,87,2222.0,2.98,29.9,80.01
+Diego Rocha,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,44,1510.0,2.93,68.2,45.07
+Rafael Moreira,NÍVEL 2,Bloqueio de cartão,Cartão,Alta,92,1494.0,2.98,78.3,85.33
+Gabriela Nunes,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,44,1788.0,3.2,31.8,35.04
+Paula Carvalho,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,50,1578.0,3.15,22.0,31.86
+Paula Carvalho,NÍVEL 1,Compra não autorizada,Cartão,Alta,71,2186.0,2.96,25.4,67.74
+Sabrina Queiroz,NÍVEL 1,Bloqueio de cartão,Cartão,Alta,19,1197.0,2.89,26.3,11.28
+Sabrina Queiroz,NÍVEL 1,Compra não autorizada,Cartão,Alta,32,2369.0,3.13,31.3,33.45
+Karen Ribeiro,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,32,2208.0,2.84,28.1,32.80
+Thiago Pires,NÍVEL 1,Problema com aplicativo,Atendimento,Média,39,2322.0,3.05,30.8,32.76
+Henrique Costa,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,19,1154.0,3.0,21.1,9.02
+Diego Rocha,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,47,2452.0,2.96,68.1,73.13
+Vitória Gonçalves,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,65,1542.0,3.02,18.5,40.18
+Lucas Almeida,NÍVEL 1,Compra não autorizada,Cartão,Alta,13,2286.0,2.75,15.4,11.00
+Elisa Santos,NÍVEL 1,Compra não autorizada,Cartão,Alta,23,2275.0,3.04,21.7,20.82
+Sabrina Queiroz,NÍVEL 1,Problema com aplicativo,Atendimento,Média,37,2406.0,3.0,37.8,36.84
+Felipe Araújo,NÍVEL 1,Consulta de limite,Financeiro,Baixa,28,995.0,2.89,32.1,10.77
+Lucas Almeida,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,10,1544.0,2.9,20.0,5.30
+Gabriela Nunes,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,21,1083.0,2.81,42.9,9.26
+João Pedro,NÍVEL 1,Consulta de contrato,Financeiro,Média,72,1139.0,2.94,23.6,33.54
+João Pedro,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,58,2293.0,2.96,19.0,46.17
+Paula Carvalho,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,16,1260.0,3.13,31.3,7.29
+Lucas Almeida,NÍVEL 1,Problema com aplicativo,Atendimento,Média,12,2359.0,3.09,33.3,9.67
+Felipe Araújo,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,30,1053.0,2.9,23.3,14.03
+Gabriela Nunes,NÍVEL 1,Compra não autorizada,Cartão,Alta,52,2234.0,3.14,34.6,54.95
+Karen Ribeiro,NÍVEL 1,Problema com aplicativo,Atendimento,Média,25,2288.0,3.12,20.0,19.69
+Isabela Martins,NÍVEL 1,Dúvidas gerais sobre programa de pontos,Benefícios,Baixa,37,1164.0,2.7,32.4,18.26
+Marina Ferraz,NÍVEL 2,Desbloqueio de cartão,Cartão,Alta,151,2165.0,3.07,72.8,182.53
+Thiago Pires,NÍVEL 1,Compra não autorizada,Cartão,Alta,43,2453.0,3.05,23.3,42.79
+Sabrina Queiroz,NÍVEL 1,Desbloqueio de cartão,Cartão,Alta,40,1830.0,2.85,17.5,32.78
+Felipe Araújo,NÍVEL 1,Problema com aplicativo,Atendimento,Média,24,2220.0,2.92,16.7,23.29
+Elisa Santos,NÍVEL 1,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",Financeiro,Média,11,1858.0,2.82,9.1,6.40
+Sabrina Queiroz,NÍVEL 1,Consulta de fatura,Financeiro,Baixa,10,1000.0,3.1,20.0,4.08
+Elisa Santos,NÍVEL 1,Contratação de cartão adicional,Cartão,Média,6,1471.0,3.33,16.7,4.00
+Gabriela Nunes,NÍVEL 1,Contestação de fatura,Financeiro,Baixa,55,2131.0,2.87,18.2,49.92
+Elisa Santos,NÍVEL 1,Problema com aplicativo,Atendimento,Média,13,2229.0,2.92,7.7,10.40

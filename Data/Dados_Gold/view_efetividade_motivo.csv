@@ -1,0 +1,12 @@
+fk_motivo,nome_motivo,qte_chamados,qte_resolvido,qte_nao_resolvido,efetividade
+3,Contestação de fatura,3832,1749,2083,45.64
+4,"Alteração de dados cadastrais (vencimento da fatura, telefone, email)",824,230,594,27.91
+5,Consulta de limite,4200,1369,2831,32.6
+6,Desbloqueio de cartão,3220,1194,2026,37.08
+7,Compra não autorizada,4396,2282,2114,51.91
+8,Consulta de contrato,2096,822,1274,39.22
+9,Problema com aplicativo,2437,750,1687,30.78
+10,Consulta de fatura,2054,659,1395,32.08
+11,Bloqueio de cartão,4509,1725,2784,38.26
+12,Contratação de cartão adicional,1618,751,867,46.42
+13,Dúvidas gerais sobre programa de pontos,814,205,609,25.18
